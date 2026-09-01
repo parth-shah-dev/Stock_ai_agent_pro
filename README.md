@@ -1,3 +1,4 @@
+
 # 📈 Stock AI — AI-Powered Stock Market Analysis & Prediction
 
 > An intelligent stock market analysis platform that leverages **Artificial Intelligence and Machine Learning** to analyze historical market data, identify trends, visualize stock performance, and generate data-driven predictions.
